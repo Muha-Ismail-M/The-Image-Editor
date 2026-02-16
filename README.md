@@ -100,4 +100,4 @@ The project is also configured for a shadcn-style component setup (aliases + the
 
 ## License
 
-No license file is currently included. If you plan to share or accept contributions, add a standard license (MIT / Apache-2.0) so reuse terms are clear.
+No license file is currently included.
